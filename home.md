@@ -14,3 +14,4 @@
 **Maintainer(s): @[akhilesh-k](github.com/akhilesh-k)**
 
 JUITW has a lot of internal and public noticeboards that most students are not aware of, but will definitely benefit from. Hermes aims to solve this by monitoring the noticeboards and sending updates to students by email.
+
